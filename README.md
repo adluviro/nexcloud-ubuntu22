@@ -22,3 +22,5 @@ Add your server name/ip back to the beginning of the URL and hit _Enter_ to refr
 `sudo mysql -u root -p` (if you don't have a mysql password, just hit _Enter_)
 
 `ALTER USER 'nextcloud'@'localhost' IDENTIFIED BY 'newpassword';`
+
+http://192.168.1.?/setup-nextcloud.php
